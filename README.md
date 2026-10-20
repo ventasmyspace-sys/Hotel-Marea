@@ -1,4 +1,4 @@
-# Mi Hotel Nica
+# Hotel Marea
 
 ## Requisitos
 
