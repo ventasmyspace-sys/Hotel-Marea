@@ -3,10 +3,10 @@
 	"version": "0.0.0",
 	"private": true,
 	"scripts": {
-		"setup": "npm install --prefix web",
-		"dev": "npm run dev --prefix web",
-		"build": "npm run build --prefix web",
-		"start": "npm run start --prefix web",
-		"lint": "npm run lint --prefix web"
+		"setup": "npm install --prefix hotel-marea",
+		"dev": "npm run dev --prefix hotel-marea",
+		"build": "npm run build --prefix hotel-marea",
+		"start": "npm run start --prefix hotel-marea",
+		"lint": "npm run lint --prefix hotel-marea"
 	}
 }

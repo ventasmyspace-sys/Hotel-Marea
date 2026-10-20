@@ -22,13 +22,17 @@ Abre http://localhost:3000.
 npm run build
 ```
 
-Los archivos compilados se generan en `dist/apps/web`. Para probar esa compilación localmente:
+Los archivos compilados se generan en `hotel-marea/dist`. Para probar esa compilación localmente:
 
 ```sh
 npm run start
 ```
 
 El sitio de prueba queda disponible en http://localhost:3000.
+
+## Despliegue en Vercel
+
+Configura **Root Directory** como `hotel-marea`. Vercel instalará las dependencias y ejecutará el build de Vite desde esa carpeta; la salida está en `dist`.
 
 Para revisar el código con ESLint:
 
